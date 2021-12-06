@@ -1048,10 +1048,14 @@ h4 {
 }
 
 .color-p-black {
-    color: black;
+    color: black!important;
 }
 
 .color-presentation {
     color: white!important;
     text-align: center;
+}
+
+blockquote p {
+    font-size: 20px;
 }
