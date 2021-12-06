@@ -287,6 +287,7 @@ a:hover {
     font-size: 32px;
     text-transform: uppercase;
     color: white!important;
+    font-weight: 900;
 }
 
 
@@ -1051,4 +1052,9 @@ h4 {
 
 .color-p-black {
     color: black;
+}
+
+.color-presentation {
+    color: white!important;
+    text-align: center;
 }
