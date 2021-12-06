@@ -1050,6 +1050,9 @@ h4 {
 .color-p-black {
     color: black!important;
 }
+.color-p-size {
+    font-size: 12px!important;
+}
 
 .color-presentation {
     color: white!important;
