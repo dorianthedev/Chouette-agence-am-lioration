@@ -638,6 +638,11 @@ a[data-lightbox]:hover img {
     color: rgba(0, 0, 0, .5);
     background: none;
 }
+a {
+    text-decoration: none;
+    text-transform: none;
+    color: black;
+}
 
 h1,
 h2,
@@ -645,10 +650,8 @@ h3,
 h4,
 h5,
 h6,
-p,
 label,
-.btn,
-a {
+.btn {
     font-family: "helvetica";
     font-weight: 400;
     color: #575757!important;
@@ -1041,4 +1044,8 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
+}
+
+.color-p-black {
+    color: black;
 }
