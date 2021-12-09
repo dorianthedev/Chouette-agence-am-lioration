@@ -931,3 +931,9 @@ blockquote p {
 cite {
     color: black;
 }
+
+.align-bg-title {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
