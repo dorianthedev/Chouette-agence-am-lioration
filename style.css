@@ -928,4 +928,6 @@ blockquote p {
 .p-size-12 {
     font-size: 15px;
 }
-
+cite {
+    color: black;
+}
